@@ -8,6 +8,9 @@
 > A production-grade, portfolio-ready customer churn prediction project applying industry-standard machine learning workflows to the IBM Telco dataset. Designed with **zero data leakage**, rigorous **5-fold stratified cross-validation on the training set**, **hyperparameter tuning**, **cross-validated decision threshold optimization**, and **quantifiable business retention strategies**.
 
 ---
+## 🚀 Live Demo
+Try the app here: ## 🚀 Live Demo
+Try the app here: https://customer-churn-prediction-hq4dza7sdg8haiip4pqjbd.streamlit.app
 
 ## 📑 Table of Contents
 - [Business Problem & Financial Impact](#-business-problem--financial-impact)
