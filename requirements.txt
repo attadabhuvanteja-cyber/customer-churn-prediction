@@ -1,0 +1,15 @@
+﻿# Core Data Science & ML Dependencies (Pinned to exact training versions)
+scikit-learn==1.9.1
+pandas==3.0.6
+numpy==2.5.3
+joblib==1.6.0
+matplotlib==3.11.2
+seaborn==0.13.2
+
+# Web App Framework
+streamlit>=1.30.0
+
+# Notebook Execution
+ipykernel>=6.29.0
+nbformat>=5.9.0
+nbclient>=0.10.0
