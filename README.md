@@ -9,7 +9,6 @@
 
 ---
 ## 🚀 Live Demo
-Try the app here: ## 🚀 Live Demo
 Try the app here: https://customer-churn-prediction-hq4dza7sdg8haiip4pqjbd.streamlit.app
 
 ## 📑 Table of Contents
