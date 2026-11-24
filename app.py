@@ -179,7 +179,7 @@ if submitted:
     col_res1, col_res2 = st.columns([1, 2])
     
     with col_res1:
-        st.markdown("<div class='metric-card'>", unsafe_allow_html=True)
+       
         st.metric("Churn Probability", f"{churn_pct:.1f}%")
         
         if churn_proba >= 0.50:
